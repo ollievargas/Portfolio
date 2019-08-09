@@ -176,7 +176,7 @@ h2.heading-title1{
 ================================================*/
 
 #section-banner{
-	background: url("../images/banner1.png") ;
+	background-image: url("../images/banner1.png");
 	background-size: cover;
 	/* box-shadow: inset 20px 20px 20px 20px grey, black; */
 }
@@ -324,7 +324,7 @@ h2.title span{
 
 .profile-bg {
     background-color: transparent;
-    background: url("../images/banner.png");
+    background-image: url("../images/banner.png");
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
@@ -1072,4 +1072,18 @@ float: left;
 #portfolioheader2{
 	color: cyan;
 }
+#reset1{
+	margin-top: -22px;
+}
+#emailblock1{
+	margin-left: 278px;
+}
+#contactMe{
+	margin-left: 470px;
+}
 
+
+#firstpro{
+	font-size: 40px;
+	margin-left: 130px;
+}
